@@ -1,5 +1,7 @@
 # GOLAN NotifSaver — حافظ الإشعارات
 
+[دليل الوظائف والاستخدام](GUIDE.ar.md) · [English guide](GUIDE.md) · [الإصدارات: APK والمصدر الكامل](https://github.com/GOLAN2CODE/golan-notification-saver/releases)
+
 [English](README.md)
 
 أرشيف إشعارات Android **1.0.14 / الرمز 15**، الحزمة `com.ibngolan.notifsaver`، والحد الأدنى Android 7/API 24، والبناء والاستهداف SDK 36. يشمل التسليم المصدر الحالي وآخر APK تجريبي مسلّم دون تعديل.

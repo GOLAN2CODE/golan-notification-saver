@@ -1,5 +1,7 @@
 # GOLAN NotifSaver
 
+[Feature and use guide](GUIDE.md) · [دليل الاستخدام العربي](GUIDE.ar.md) · [Releases: APK and complete source](https://github.com/GOLAN2CODE/golan-notification-saver/releases)
+
 [العربية](README.ar.md)
 
 Android notification archive **1.0.14 / code 15**, package `com.ibngolan.notifsaver`; Android 7/API 24 minimum, SDK/target 36. This is the current source snapshot and unchanged latest delivered debug APK.
